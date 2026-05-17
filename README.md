@@ -6,7 +6,6 @@
 <p align="center">Estudante de Engenharia de Software na Centro Universitário de Brasília (UniCEUB). Atualmente estudo as tecnologias C# e C.
 Sou um entuasiasta da área tecnologia e busco sempre expandir meus conhecimentos técnicos para solucionar desafios complexos. 
 
-#
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thalis_xd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalis-alexandre-aquinodev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xandedev@outlook.com) 
@@ -19,7 +18,6 @@ Sou um entuasiasta da área tecnologia e busco sempre expandir meus conhecimento
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thalisaquino1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=thalisaquino1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://raw.githubusercontent.com/thalisaquino1/thalisaquino1/output/github-contribution-grid-snake-dark.svg)
 
