@@ -1,7 +1,10 @@
-## Hi there 👋
-
-<!--
-**thalisaquino1/thalisaquino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
+  </a>
+</div>
+<p align="center">Estudante de Engenharia de Software na Centro Universitário de Brasília (UniCEUB). Atualmente estudo as tecnologias C# e C.
+Sou um entuasiasta da área tecnologia e busco sempre expandir meus conhecimentos técnicos para solucionar desafios complexos. 
 
 Here are some ideas to get you started:
 
