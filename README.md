@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007acc&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
   </a>
 </div>
-<p align="center">Estudante de Engenharia de Software na Centro Universitário de Brasília (UniCEUB). Atualmente estudo as tecnologias C# e C.
-Sou um entuasiasta da área tecnologia e busco sempre expandir meus conhecimentos técnicos para solucionar desafios complexos. 
-
+<p align="center">Meu nome é Thalis Alexandre, sou estudante de Engenharia de Software No Uniceub e estou construindo minha trajetória profissional na área de desenvolvimento de software. Atualmente, estudo e desenvolvo meus conhecimentos em Java, JavaScript, C, SQL, HTML, CSS, Git e GitHub, buscando sempre colocar em prática o que aprendo através de projetos. Meu objetivo é evoluir minha primeira oportunidade de estágio, adquirir experiência prática e continuar evoluindo como desenvolvedor.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thalis_xd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalis-alexandre-aquinodev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xandedev@outlook.com) 
